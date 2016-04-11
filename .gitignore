@@ -1,0 +1,12 @@
+
+*.mf
+
+*.xml
+
+*.properties
+
+*.class
+
+Binary Tree/build/classes/.netbeans_update_resources
+
+Binary Tree/build/classes/.netbeans_automatic_build
